@@ -18,85 +18,106 @@ Execute the program
 <!DOCTYPE html>
 <html>
     <head>
-       <title>
-           Time Table
-       </title>
+        <title>Timetable</title>
     </head>
     <body>
-         <h1>Time Table</h1>
-         <table border="5px" align="left">
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<caption><b>SLOT TIME TABLE -   Jayakrishnan L B L(212222230052)</b></caption>
+<tr align="center">
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">8-10</th>
+<th bgcolor="yellow">10-12</th>
+<th bgcolor="yellow">12-1</th>
+<th bgcolor="yellow">1-3</th>
+<th bgcolor="yellow">3-5</th>
+</tr>
 
-             
+<tr align="center">
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="cyan" colspan="2" align="center">FREE SLOT</th>
+<th bgcolor="cyan" rowspan="5" align="center">LUNCH BREAK</th>
+<th bgcolor="cyan">C</th>
+<th bgcolor="cyan">Statistics</th>
+</tr>
 
-             <tr bgcolor="yellow">
-                 <td >
-                     Day/time
-                 </td>
+<tr align="center">
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="cyan">Probability</th>
+<th bgcolor="cyan">FREE SLOT</th>
+<th bgcolor="cyan">EDM</th>
+<th bgcolor="cyan">FREE SLOT</th>
+</tr>
 
-                 <td>
-                     Monday
-                 </td>
+<tr align="center">
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="cyan">FWAD</th>
+<th bgcolor="cyan">EDM</th>
+<th bgcolor="cyan">DE</th>
+<th bgcolor="cyan">Probability</th>
+</tr>
 
-                 <td>
-                     Tuesday
-                 </td>
-                 <td>
+<tr align="center">
+<th bgcolor="yellow">Thrusday</th>
+<th bgcolor="cyan">FWAD</th>
+<th bgcolor="cyan">Creative Skill</th>
+<th bgcolor="cyan">DE</th>
+<th bgcolor="cyan">FREE SLOT</th>
+</tr>
 
-                     Wednesday
-                 </td>
-                 <td>
-                     Thursday
-                 </td>
-                 <td>
-                     Friday
-                 </td>
-             </tr>
-             <tr>
-                 <td bgcolor="yellow">
-                     8-10
-                 </td>
-                  <td colspan="3" bgcolor="cyan" align="center">FREE Slot</td>
-                 <td colspan="1" bgcolor="cyan" align="center">WEB</td>
-               	<td colspan="1" bgcolor="cyan" align="center">CN</td>
-             </tr>
-             <tr>
-                 <td bgcolor="yellow">
-                    10-12
-                 </td>
-                 	<td colspan="1" bgcolor="cyan" align="center">MATHS</td>
-                 <td colspan="1" bgcolor="cyan" align="center">T.ENG</td>
-                 	<td colspan="1" bgcolor="cyan" align="center">CA</td>
-                 <td colspan="1" bgcolor="cyan" align="center">PY</td>
-                 	<td colspan="1" bgcolor="cyan" align="center">FRENCH</td>
-             </tr>
-             <tr>
-                 <td bgcolor="yellow">
-                     12-1
-                 </td>
-			
-                 <td colspan="5" bgcolor="cyan" align="center">LUNCH</td>
-             </tr>
-             <tr>
-                 <td bgcolor="yellow">
-                     1-3
-                 </td>
-			
-                 <td colspan="2" bgcolor="cyan" align="center">FREE SLOT</td>
-                 	<td colspan="1" bgcolor="cyan" align="center">CA</td>
-                 <td colspan="1" bgcolor="cyan" align="center">CN</td>
-                 	<td colspan="1" bgcolor="cyan" align="center">SS</td>
-             </tr>
-             <tr>
-                 <td bgcolor="yellow">
-                    3-5
-                 </td>
-                <td colspan="2" bgcolor="cyan" align="center">FREE SLOT</td>
-                 <td colspan="1" bgcolor="cyan" align="center">T.ENG</td>
-                <td colspan="1" bgcolor="cyan" align="center">CN</td>
-                 <td colspan="1" bgcolor="cyan" align="center">PY</td>
-             </tr>
-         </table>
-    </body>
+<tr align="center">
+<th bgcolor="yellow">Friday</th>
+<th bgcolor="cyan">FWAD</th>
+<th bgcolor="cyan">FREE SLOT</th>
+<th bgcolor="cyan">FREE SLOT</th>
+<th bgcolor="cyan">Statistics</th>
+</tr>
+</table>
+
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals of Web Application Development (FWAD)</td>
+</tr>
+
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI304</td>
+<td>Engineering Design and Modelling (EDM)</td>
+</tr>
+
+<tr>
+<td align="center">3.</td>
+<td align="center">19EE404</td>
+<td>Digital Electronics (DE)</td>
+</tr>
+
+<tr>
+<td align="center">4.</td>
+<td align="center">19EY702</td>
+<td>Creative Skill for Communication</td>
+</tr>
+
+<tr>
+<td align="center">5.</td>
+<td align="center">19MA211</td>
+<td>Statistics and Numerical Methods</td>
+</tr>
+
+<tr>
+<td align="center">6.</td>
+<td align="center">19MA222</td>
+<td>Probability and Queueing Models</td>
+</tr>
+</table>
+</body>
 </html>
 ```
 # OUPUT
