@@ -121,10 +121,11 @@ Execute the program
 </html>
 ```
 # OUPUT
-![out](https://user-images.githubusercontent.com/120232371/232858830-7d557154-71f6-4409-9bf7-c27c2cd2c0ff.png)
+![Screenshot 2023-05-16 184821](https://github.com/Jayakrishnan22003251/timetable/assets/120232371/753ad3c2-2367-4c5a-900e-8d87aa4a9ea7)
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/120232371/232858904-cec8bc62-82ac-458a-a5d3-10f9b74908d4.png)
 
-# HTML VALIDATOR
+## HTML VALIDATOR
 ![valid](https://user-images.githubusercontent.com/120232371/232859048-7a9a1bde-bf48-4342-8334-39965cea1ca2.png)
 
 # RESULT
